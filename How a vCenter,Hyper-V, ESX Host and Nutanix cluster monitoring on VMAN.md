@@ -15,11 +15,11 @@
  - Select your authorized credential on platform 
     // credentials must be added before 
 ```
-<img src="https://github.com/3QU1N0X3/Solarwinds/blob/main/img/select_credentila.png" height="300">
+<img src="https://github.com/3QU1N0X3/Solarwinds/blob/main/assets/select_credentila.png" height="300">
 
 ### 3.And Finish
 ---
-<img src ="https://github.com/3QU1N0X3/Solarwinds/blob/main/img/addinghost.png" height="300">
+<img src ="https://github.com/3QU1N0X3/Solarwinds/blob/main/assets/addinghost.png" height="300">
 
 
 
