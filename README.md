@@ -1,9 +1,9 @@
 # Solarwinds
 
-<img src ="https://github.com/3QU1N0X3/Solarwinds/blob/main/assets/SolarWindsLogo.jpg" height="250">
+<img src ="assets/SolarWindsLogo.jpg" height="250">
 
 
-- [x] [Solarwinds Orion Kurulum.](https://github.com/3QU1N0X3/Solarwinds/blob/main/Solarwinds%20Orion%20Kurulum.md)
+- [x] [Solarwinds Orion Kurulum.](/Solarwinds%20Orion%20Kurulum.md)
 - [ ] Solarwinds E-Mail Ayarları
 - [ ] Solarwinds Linux Node Ekleme
 - [ ] Solarwinds Discovery ile node ekleme
