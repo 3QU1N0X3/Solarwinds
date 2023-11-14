@@ -10,7 +10,7 @@
 - [ ] Solarwinds SAM - MSSQL Application Monitoring
 - [ ] Solarwinds Orion Groups
 - [ ] Solarwinds Orion Maps
-- [ ] Solarwinds Alerting
+- [x] [Solarwinds Alerting](Alerting.md)
 - [ ] Solarwinds Mail notifications
 - [ ] Solarwinds Jira ticket Integration
 - [ ] Solarwinds Scheduled Reports
