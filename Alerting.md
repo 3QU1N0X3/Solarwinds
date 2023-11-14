@@ -1,4 +1,4 @@
-![resim](https://github.com/3QU1N0X3/Solarwinds/assets/121360885/ce50ef26-da64-4092-8e3c-da5344367297)Alerting 
+Alerting 
 
 Settings > All Settings > Alerts and Reports > Manage Alerts 
 
