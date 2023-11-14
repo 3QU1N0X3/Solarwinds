@@ -1,13 +1,34 @@
 # Solarwinds
 
-<img src ="https://github.com/3QU1N0X3/Solarwinds/blob/main/assets/SolarWindsLogo.jpg">
+<img src ="https://github.com/3QU1N0X3/Solarwinds/blob/main/assets/SolarWindsLogo.jpg" height="250">
 
 
-- [Solarwinds Orion Kurulum.](https://github.com/3QU1N0X3/Solarwinds/blob/main/Solarwinds%20Orion%20Kurulum.md)
-- Solarwinds E-Mail Ayarları
-- Solarwinds Linux Node Ekleme
-- Solarwinds Discovery ile node ekleme
-- Solarwinds SAM - MSSQL Application Monitoring
-- Solarwinds Orion Groups
-- Solarwinds Orion Maps
-- Solarwinds Alarm
+- [x] [Solarwinds Orion Kurulum.](https://github.com/3QU1N0X3/Solarwinds/blob/main/Solarwinds%20Orion%20Kurulum.md)
+- [ ] Solarwinds E-Mail Ayarları
+- [ ] Solarwinds Linux Node Ekleme
+- [ ] Solarwinds Discovery ile node ekleme
+- [ ] Solarwinds SAM - MSSQL Application Monitoring
+- [ ] Solarwinds Orion Groups
+- [ ] Solarwinds Orion Maps
+- [ ] Solarwinds Alerting
+- [ ] Solarwinds Mail notifications
+- [ ] Solarwinds Jira ticket Integration
+- [ ] Solarwinds Scheduled Reports
+- [ ] Dashboard Management
+- [ ] Solarwinds Veriables 
+
+
+### SAM Components 
+- [ ] File Age Monitor
+- [ ] File Change Monitor
+- [ ] File Count Monitor
+- [ ] File Size Monitor
+- [ ] File Existence Monitor
+- [ ] HTTP / HTTPS Monitor
+- [ ] Directory Size Monitor
+- [ ] Linux / Unix  Script Monitor
+- [ ] Service Monitor - SNMP
+- [ ] Windows PowerShell Monitor
+- [ ] Windows Script Monitor
+- [ ] Windows Service Monitor
+- [ ] Windows EventLog Monitor
