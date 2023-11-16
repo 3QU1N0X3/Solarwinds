@@ -31,7 +31,7 @@ Application Montor Templates  altında yeni bir template oluşturuyoruz.
 
 ![image](https://github.com/3QU1N0X3/Solarwinds/assets/121360885/2986621a-61c5-4a74-a70a-fbc5b4c25772)
 
-```Set Test Node  ```test etmek için yapınızda monitor edilen bir suncuu ya da polling engine üzerinden test nodu set etmek gerekir.
+```Set Test Node ``` test etmek için yapınızda monitor edilen bir suncuu ya da polling engine üzerinden test nodu set etmek gerekir.
 
 ```TEST``` ve test sonucu varsa hataları ile birlikte yoksa Succesful olarak döner, save ettikten sonra  bir alarm tanımna bağlayıp response time üzerinden özelleştirmeler ya da orion default treshold'lar ile izlenebilir. 
 ![image](https://github.com/3QU1N0X3/Solarwinds/assets/121360885/67f310b6-88b2-4fb6-82b6-aeab1dd8eb72)
