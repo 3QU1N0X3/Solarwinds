@@ -24,7 +24,7 @@
 - [ ] SAM File Count Monitor
 - [ ] SAM File Size Monitor
 - [ ] SAM File Existence Monitor
-- [ ] SAM HTTP / HTTPS Monitor
+- [x] [SAM HTTP / HTTPS Monitor](SAM%20SSL%20Certificate%20Monitor.md)
 - [ ] SAM Directory Size Monitor
 - [ ] SAM Linux / Unix  Script Monitor
 - [ ] SAM Service Monitor - SNMP
@@ -32,4 +32,4 @@
 - [ ] SAM Windows Script Monitor
 - [ ] SAM Windows Service Monitor
 - [ ] SAM Windows EventLog Monitor
-- [ ] SAM SSL Certificate Monitor
+- [x] [SAM SSL Certificate Monitor](SAM%20HTTP%20-%20HTTPS%20Monitor.md)
