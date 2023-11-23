@@ -19,7 +19,7 @@
 
 
 ### SAM Components 
-- [ ] SAM File Age Monitor
+- [x] [SAM File Age Monitor](SAM%20File%20Age%20Monitor.md)
 - [ ] SAM File Change Monitor
 - [ ] SAM File Count Monitor
 - [ ] SAM File Size Monitor
