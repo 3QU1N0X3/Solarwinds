@@ -4,6 +4,10 @@ Bu component ile herhangi bir dosyanın son değiştirilme tarihi izlenebilmekte
 output value değeri saatlik olarak gelmekte, ve kurgulayacağınız alarmı buna göre x saatten büyükse gibi yapıalbilir. 
 
 ```Settings > All Settings > Product Specific Settings altında SAM Settings > Application Montor Templates >  Create a New Template > Add Component > File Age Monitor ```
+- ```File Path : ``` kontrol edeceğimiz dsoya yolu ( ağdaki bir yolda eklenebilir. )
+- ```Convert Value : ```  Gelen veri saatliık hesaplanmakta ancak  yeni oluşturduğunuzda   100.00000 gibi değerlerle gelecektir. aşağıdaki gibi dönüştürürseniz kontrolü daha kolay olacaktır. 
+
+![image](https://github.com/3QU1N0X3/Solarwinds/assets/121360885/06293565-e1a7-4526-8c69-4b550e008b2d)
 
 ![image](https://github.com/3QU1N0X3/Solarwinds/assets/121360885/e8588550-0012-40c8-accd-f68a3848650e)
 
